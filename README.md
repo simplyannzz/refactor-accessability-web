@@ -1,7 +1,7 @@
 # Refactor-Accessability-web
 
 ## Description
-Like the title heis named, the goal of this projecot is to refacotor the webstie to make it more accessiable for various of people. There are alot of people with different disability or some one who doesnt have a disability to choose to use tools that helps them with their everydays. In this project I thougth what would be the best approach through coding. One of them is adding semantic instead of divs, using alt to pictures/videos/gifs, and cleaning up the code to make it easier to read/understand. By using those tools is helps the users perfrom better in their day to day like using a screen reader, braille, sub/dubbing, etc. I learnt how to use semantic better.
+As the title is named, the goal of this project is to refactor the website to make it more accessible to various audiences. There are a lot of people with different disability or someone who can't choose to use tools that helps them with their everyday. In this project, I thought about what would be the best approach through coding. One of ways is to add semantics instead of divs, using alt to pictures/videos/gifs, and cleaning up the code to make it easier to read/understand. Using those tools helps the users perform better in their day-to-day like using a screen reader, braille, sub/dubbing, etc. I learned how to use semantics better.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Like the title heis named, the goal of this projecot is to refacotor the webstie
 
 ## Installation
 
-I used the tools that I had on my computer like Git, Vscode, Github, and Google. First, I cloned the repo into my local file, made a github repo and named both the local and global repo "Refactor-accessability-web". I opened the file in my vscode and started coding the project and used chrome developer tools to live check the website for errors and stuffs. Then I push it into my github for deployment.
+I used the tools that I had on my computer, like Git, Vscode, Github, and Google. First, I cloned the repo into my local file, made a GitHub repo, and named both the local and global repo the "Refactor-accessibility-web". I opened the file in my VScode and started coding the project, and used Chrome developer tools to live to check the website for errors and stuff. Then I push it into my GitHub for deployment.
 
 ## Usage
 
@@ -22,7 +22,7 @@ I used the tools that I had on my computer like Git, Vscode, Github, and Google.
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 ## License
-I clone with repo provided and it doesnt look like it has any licensing for this project.
+I clone with the repo provided and it doesn't look like it has any licensing for this project.
 
 ## contact me
 email: anniebui0110@gmail.com
